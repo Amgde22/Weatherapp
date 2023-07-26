@@ -219,6 +219,10 @@
   overflow: hidden;
 }
 
+.current-tempeture.temperture.temperture-with-icon.moon {
+  background-position: 100% -80%;
+}
+
 .current-tempeture {
   width: 100%;
   max-width: var(--weather-info-max-width);
